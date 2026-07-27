@@ -1,0 +1,146 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Beatriz Carvalho Nogueira
+    - name: Date of Birth
+      value: February 17, 1999
+    - name: Languages
+      value: Portuguese (Native), English (Advanced - C1), French (Beginner - A1)
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD Student in Informatics
+      institution: Universidade de Lisboa (FCUL) & KTH Royal Institute of Technology
+      year: 2026 - 2030 (Ongoing)
+      description:
+        - "FCT Mixed Studentship (Ref. 2025.03576.BD)."
+        - "Joint supervision between ULisboa (FCUL) and KTH."
+        - "Topic: Exploring Long-Term Trust in Human-Robot Interaction with Older Adults."
+
+    - title: Master's Degree in Informatics
+      institution: Universidade de Lisboa - Faculdade de Ciências
+      year: 2021 - 2024
+      description:
+        - "Thesis: 'Exploring How Robots can Help Older Adults Live by Their Values' (Graded 18/20)."
+        - "Advised by Prof. Tiago Guerreiro."
+
+    - title: Postgraduate Studies in Statistics Applied to Biology & Health Sciences
+      institution: Universidade de Lisboa - Faculdade de Ciências
+      year: 2020 - 2022
+      description:
+        - "Specialization in applied multivariate analysis and GLMs."
+
+    - title: Bachelor in Biology
+      institution: Universidade de Lisboa - Instituto Superior de Agronomia (ISA)
+      year: 2017 - 2020
+      description:
+        - "Thesis: 'Reproduction in captivity of Raja undulata'."
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Researcher
+      institution: LASIGE - FCUL / FCiênciasID, Portugal
+      year: Nov 2024 - Present
+      description:
+        - "Working on the EU Horizon project HARIA (Human-Robot Sensorimotor Augmentation)."
+        - "Focusing on HRI Failure Taxonomy and usability/accessibility for stroke and spinal cord injury end-users."
+        - "Working on project EXPRESS-AR (Artistic expression for tetraplegia using AR and Robotics)."
+
+    - title: Research Engineer
+      institution: KTH Royal Institute of Technology, Sweden
+      year: Jan 2024 - Jun 2024
+      description:
+        - "Robotics, Perception, and Learning (RPL) division under Prof. Iolanda Leite."
+        - "Projects: 'Priming Robot Abilities' and 'Advanced Adaptive Intelligent Systems'."
+
+    - title: Research Trainee
+      institution: Aquário Vasco da Gama, Portugal
+      year: Feb 2020 - May 2020
+      description:
+        - "Research trainee supporting biological and aquatic studies."
+
+    - title: Educational Support / Private Tutor
+      institution: Instituto de Formação Académica, Portugal
+      year: 2016 - 2018
+      description:
+        - "Provided individual and small-group educational support across various school subjects."
+
+- title: Projects & Grants
+  type: time_table
+  contents:
+    - title: FCT PhD Research Grant
+      institution: Fundação para a Ciência e a Tecnologia (FCT)
+      year: 2026 - 2029
+      description:
+        - "Grant Ref: 2025.03576.BD - Exploring Long-Term Trust in Human-Robot Interaction with Older Adults."
+
+    - title: HARIA (EU Horizon Project)
+      institution: European Commission / LASIGE
+      year: 2024 - 2025
+      description:
+        - "HORIZON-CL4-2021-DIGITAL-EMERGING 01_101070292."
+        - "Wearable Sensorimotor Interfaces and Supernumerary Robotic Limbs for Humans With Upper-Limb Disabilities."
+
+- title: Publications
+  type: time_table
+  contents:
+    - title: "Putting the Age in Agency: A Case Study of an Older Adult Controlling a Telepresence Robot in a Family Setting"
+      institution: ACM DIS '25 Companion
+      year: 2025
+      description:
+        - "Beatriz Nogueira, Hugo Simão, Alexandre Bernardino, Jodi Forlizzi, Tiago Guerreiro."
+
+    - title: "Expectations, Explanations, and Embodiment: Attempts at Robot Failure Recovery"
+      institution: Journal of Human-Computer Studies / arXiv preprint
+      year: 2025
+      description:
+        - "Elmira Yadollahi, Fethiye Irmak Dogan, Yujing Zhang, Beatriz Nogueira, Tiago Guerreiro, Shelly Levy Tzedek, Iolanda Leite."
+
+    - title: "Don't Go Breaking My Trust: A Taxonomy of Interaction Failures for Transparent Robots"
+      institution: Workshop at HRI 2026 (D-TUR)
+      year: 2026
+      description:
+        - "Beatriz Nogueira, João P. Ferreira, Hugo Simão, Filipa Rocha, Isabel Neto, João Guerreiro, Tiago Guerreiro."
+
+- title: Technical Skills
+  type: nested_list
+  contents:
+    - title: Programming & Analysis
+      items:
+        - Python
+        - R / RStudio
+        - Java (Foundational)
+        - Generalized Linear Models & Statistics
+
+    - title: Robotics & Tools
+      items:
+        - ROS (Robot Operating System)
+        - Aseba
+        - Unity
+        - Blender
+        - Git / GitHub
+        - Miro
+
+- title: Academic Activities & Visits
+  type: time_table
+  contents:
+    - title: Research Visit to Carnegie Mellon University (CMU)
+      institution: Pittsburgh, USA
+      year: May 2023
+      description:
+        - "Collaboration on the ShiftHRI project and qualitative thematic analysis."
+
+    - title: Department Presentation
+      institution: LASIGE - FCUL
+      year: Oct 2024
+      description:
+        - "Welcome Day talk on international collaboration and research work at KTH."
+
+    - title: Member of Biology Student Association
+      institution: ISA - Universidade de Lisboa
+      year: 2019 - 2020
+      description:
+        - "Organized academic events, lectures, and workshops for students."
