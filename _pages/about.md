@@ -1,4 +1,9 @@
 ---
+---
+layout: about
+title: about
+permalink: / # <--- MAKE SURE THIS IS EXACTLY '/'
+---
 profile:
   align: right
   image: Imagem.jpeg
