@@ -7,10 +7,14 @@ nav: true
 nav_order: 2
 ---
 
-<!-- Google Scholar Button -->
-<div class="repositories d-flex flex-wrap flex-row justify-content-flex-start align-items-between mb-4">
-  <a href="https://scholar.google.com/citations?user=7kAkCnQAAAAJ&hl=pt-PT&oi=ao" target="_blank" rel="noopener noreferrer" class="btn btn-sm z-depth-0" role="button">
-    <i class="ai ai-google-scholar"></i> Google Scholar
+<!-- Prominent Google Scholar Button -->
+<div class="mb-4 mt-2">
+  <a href="https://scholar.google.com/citations?user=7kAkCnQAAAAJ&hl=pt-PT&oi=ao" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     class="btn btn-outline-primary btn-md font-weight-bold" 
+     style="font-size: 1.05rem; padding: 8px 16px;">
+    <i class="ai ai-google-scholar mr-1" style="font-size: 1.2rem; vertical-align: middle;"></i> View my Google Scholar profile
   </a>
 </div>
 
