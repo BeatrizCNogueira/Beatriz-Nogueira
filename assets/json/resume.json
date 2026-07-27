@@ -117,27 +117,11 @@
       ]
     }
   ],
-  "publications": [
-    {
-      "name": "Putting the Age in Agency: A Case Study of an Older Adult Controlling a Telepresence Robot in a Family Setting",
-      "publisher": "ACM DIS '25 Companion",
-      "releaseDate": "2025",
-      "url": "https://doi.org/10.1145/3715668.3736344",
-      "summary": "Beatriz Nogueira, Hugo Simão, Alexandre Bernardino, Jodi Forlizzi, Tiago Guerreiro."
-    },
-    {
-      "name": "Expectations, Explanations, and Embodiment: Attempts at Robot Failure Recovery",
-      "publisher": "Journal of Human-Computer Studies / arXiv preprint",
-      "releaseDate": "2025",
-      "url": "https://arxiv.org/abs/2504.07266",
-      "summary": "Elmira Yadollahi, Fethiye Irmak Dogan, Yujing Zhang, Beatriz Nogueira, Tiago Guerreiro, Shelly Levy Tzedek, Iolanda Leite."
-    }
-  ],
   "skills": [
     {
       "name": "Programming & Data Analysis",
       "level": "",
-      "keywords": ["Python", "R / RStudio", "Java", "GLMs", "Data Visualization"]
+      "keywords": ["Python", "R / RStudio", "Java", "Data Visualization"]
     },
     {
       "name": "Robotics & Development Tools",
